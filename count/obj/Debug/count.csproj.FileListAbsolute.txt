@@ -1,0 +1,9 @@
+c:\users\joanka\documents\visual studio 2015\Projects\count\count\bin\Debug\count.exe.config
+c:\users\joanka\documents\visual studio 2015\Projects\count\count\bin\Debug\count.exe
+c:\users\joanka\documents\visual studio 2015\Projects\count\count\bin\Debug\count.pdb
+c:\users\joanka\documents\visual studio 2015\Projects\count\count\obj\Debug\count.csprojResolveAssemblyReference.cache
+c:\users\joanka\documents\visual studio 2015\Projects\count\count\obj\Debug\count.Form1.resources
+c:\users\joanka\documents\visual studio 2015\Projects\count\count\obj\Debug\count.Properties.Resources.resources
+c:\users\joanka\documents\visual studio 2015\Projects\count\count\obj\Debug\count.csproj.GenerateResource.Cache
+c:\users\joanka\documents\visual studio 2015\Projects\count\count\obj\Debug\count.exe
+c:\users\joanka\documents\visual studio 2015\Projects\count\count\obj\Debug\count.pdb

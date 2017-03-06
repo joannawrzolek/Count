@@ -1,0 +1,8 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\count\count\bin\Release\count.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\count\count\bin\Release\count.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\count\count\bin\Release\count.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\count\count\obj\Release\count.Form1.resources
+C:\Users\Joanka\documents\visual studio 2015\Projects\count\count\obj\Release\count.Properties.Resources.resources
+C:\Users\Joanka\documents\visual studio 2015\Projects\count\count\obj\Release\count.csproj.GenerateResource.Cache
+C:\Users\Joanka\documents\visual studio 2015\Projects\count\count\obj\Release\count.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\count\count\obj\Release\count.pdb
